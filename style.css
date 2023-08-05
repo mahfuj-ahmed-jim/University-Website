@@ -258,3 +258,7 @@ h3{
     text-align: left;
     margin-left: 0;
 }
+
+.testimonials-col .fa{
+    color: #f44336;
+}
